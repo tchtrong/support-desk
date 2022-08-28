@@ -9,6 +9,7 @@ NODE_ENV = development
 PORT = 5000
 MONGO_URI = 'Your MongoDB database URI'
 JWT_SECRET = 'Your JWT secret'
+```
 
 ### Install backend dependencies
 
